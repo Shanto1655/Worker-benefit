@@ -57,7 +57,7 @@ All operations are recorded on the blockchain, ensuring data integrity and audit
 **Contract ID:**
 `CBUYSQTZCWGBHVFDG7ROTNIYLTIYVOCF2W7FSRBEULX2KIIY6IHOZKY6`
 **Contract Adress link:**
-'https://stellar.expert/explorer/testnet/contract/GBR7DDPY64HYCTUW7E7EWNQEI72QLDXM4WICWY6SCDMYTM6WX6JT5UZP'
+'https://stellar.expert/explorer/testnet/contract/CBUYSQTZCWGBHVFDG7ROTNIYLTIYVOCF2W7FSRBEULX2KIIY6IHOZKY6'
 
 👉 You can interact with it using:
 
